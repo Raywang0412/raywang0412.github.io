@@ -162,6 +162,7 @@ section.resume-section .resume-item .resume-date {
 
 .bg-primary {
   background-color: #98FB98 !important;
+  background-image: url("img/argyle.png");
 }
 
 .text-primary {
