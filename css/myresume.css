@@ -4,5 +4,5 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Noto Sans TC', sans-serif;}
 .subheading {font-family: 'Noto Sans TC', sans-serif;}
 .bg-primaryimage: {
   background-color: #4100ba important!;
-  background-image: url("img/argyle.png");
+  background-image: url("https://www.transparenttextures.com/patterns/argyle.png");
 }
