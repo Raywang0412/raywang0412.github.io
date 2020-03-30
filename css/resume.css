@@ -175,3 +175,6 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+id=about
+background-image: linear-gradient(to right bottom, Aquamarine, GreenYellow);
+
