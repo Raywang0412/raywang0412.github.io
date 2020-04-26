@@ -10,7 +10,7 @@ table {
 	width:50%       
 }
 tr:nth-child(even) {
-	 background-color:#F9F900;
+	 background-color:#84C1FF;
 }
 tr:hover{
   font-weight:bold
