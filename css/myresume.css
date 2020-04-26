@@ -6,3 +6,15 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Noto Sans TC', sans-serif;}
   background-color: #4100ba important!;
   background-image: url("https://www.transparenttextures.com/patterns/argyle.png");
 }
+table {
+	width:50%       
+}
+tr:nth-child(even) {
+	 background-color:#F9F900;
+}
+tr:hover{
+  font-weight:bold
+}
+tr:first-child {
+	border-bottom:3px,solid,#000000；
+}
