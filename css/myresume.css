@@ -19,6 +19,6 @@ tr:hover{
 tr:first-child {
 	border-bottom:3px,solid,#000000；
 }
-ul:class="fa-ul mb-0"{
+ul:fa-ul mb-0{
 	font-size: 3rem
 }
