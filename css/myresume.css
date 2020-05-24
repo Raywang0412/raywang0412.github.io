@@ -19,3 +19,10 @@ tr:hover{
 tr:first-child {
 	border-bottom:3px,solid,#000000；
 }
+img{
+    border:solid #ffffff 3px;
+}
+.school{
+	border:solid #4100ba 5px;
+}
+
