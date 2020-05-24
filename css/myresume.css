@@ -28,7 +28,8 @@ img{
 p {
 	color: #343a40
 .swim{
-	background-color:#007bff;
+	border:solid 5px #FEFF07;
+	background-color:#343A40;
 	width:550px;
 	height:655px;
 	padding:10px;
