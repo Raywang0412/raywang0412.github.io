@@ -25,4 +25,12 @@ img{
 .school{
 	border:solid #4100ba 5px;
 }
-
+p {
+	color: #343a40
+.swim{
+	background-color:#007bff;
+	width:550px;
+	height:655px;
+	padding:10px;
+	margin-left:100px
+}
